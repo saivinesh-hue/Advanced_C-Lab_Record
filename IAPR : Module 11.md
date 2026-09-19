@@ -280,7 +280,6 @@ int main() {
 ```
 
 ## Output:
-
 <img width="627" height="127" alt="image" src="https://github.com/user-attachments/assets/04b22bbd-412c-4e7d-93d1-5421d7b46314" />
 
 ## Result:
