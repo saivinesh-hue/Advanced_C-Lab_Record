@@ -327,7 +327,6 @@ int main() {
     return 0;
 }
 ```
-
 ## Output:
 
 <img width="652" height="498" alt="image" src="https://github.com/user-attachments/assets/5875d268-2053-428e-a8a3-6c30cee71528" />
