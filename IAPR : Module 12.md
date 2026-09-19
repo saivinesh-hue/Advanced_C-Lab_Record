@@ -226,7 +226,6 @@ void peek()
     printf("%0.2f\n", front->data);
 }
 ```
-
 ## Output:
 
 <img width="430" height="508" alt="image" src="https://github.com/user-attachments/assets/e849565f-a798-4381-973c-241e2e9d9584" />
