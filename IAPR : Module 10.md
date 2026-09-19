@@ -252,5 +252,4 @@ void delete() {
 <img width="591" height="628" alt="image" src="https://github.com/user-attachments/assets/27b795bb-317a-46df-a76d-2e981852cb39" />
 
 ## Result:
-
 Thus, the function in C program that deletes a given element from a linked list is verified successfully.
