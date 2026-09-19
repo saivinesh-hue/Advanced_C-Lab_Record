@@ -242,7 +242,6 @@ int main()
 
 <img width="652" height="313" alt="image" src="https://github.com/user-attachments/assets/3128b6a5-1465-41e6-9935-a3f431bff201" />
 
-
 ## Result:
 
 Thus, the C program to print a given pattern of numbers from 1 to n is verified successfully.
